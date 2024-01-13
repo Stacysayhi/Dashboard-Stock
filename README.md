@@ -7,15 +7,15 @@
 - I used Mercury library to UI the project
 - In this project, i show you:
   [x] Basic information about the stock:
-      <img src="https://imgur.com/a/2DD21qDhttps://imgur.com/a/2DD21qD">
+      ![Screenshot 2024-01-12 211803](https://github.com/Stacysayhi/Dashboard-Stock/assets/136609174/41dddc24-9b47-49b6-98b0-d1eff99ef071)
   [x] History price:
-    <img src="https://imgur.com/QulcBer">
+    ![Screenshot 2024-01-12 210424](https://github.com/Stacysayhi/Dashboard-Stock/assets/136609174/bee5f0ca-705b-4617-8dba-f1eb1a8e6274)
   [x] Related companies in the same field:
-    <img src='https://imgur.com/a/J8Yd8HG'>
+    ![Screenshot 2024-01-13 112305](https://github.com/Stacysayhi/Dashboard-Stock/assets/136609174/6be24837-58bc-44b1-8390-b1d39011f5d8)
   [x] Some financial statictis:
-    <img src='https://imgur.com/BMyv9iP'>
+    ![Screenshot 2024-01-13 112325](https://github.com/Stacysayhi/Dashboard-Stock/assets/136609174/f7cfd131-dc67-49f6-8bd3-6615ec872220)
   [x] Buy sell stragetic such as: MACD, Bollinger Bands, SMA, RO, SO,...
-     <img src='https://imgur.com/undefined'>
+     ![Screenshot 2024-01-13 112409](https://github.com/Stacysayhi/Dashboard-Stock/assets/136609174/91c8ae71-cc06-4017-bb16-2d1727123777)
 ***
 #How to run the file?
 Turn on your terminal, **cd** directly to the folder contain the file then enter
